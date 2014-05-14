@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>headjs</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4-SNAPSHOT</version>
     <name>HeadJS</name>
     <description>WebJar for HeadJS</description>
     <url>http://webjars.org</url>
@@ -44,7 +44,7 @@
         <url>http://github.com/webjars/headjs</url>
         <connection>scm:git:https://github.com/webjars/headjs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/headjs.git</developerConnection>
-        <tag>headjs-1.0.3</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
